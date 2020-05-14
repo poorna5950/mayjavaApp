@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 swrna 
-=======
 swarna love you
->>>>>>> development
+swarna how are you
